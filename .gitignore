@@ -1,0 +1,23 @@
+# Angular
+/dist
+/tmp
+/out-tsc
+/bazel-out
+.angular/
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env local (no subir credenciales)
+src/environments/environment.local.ts
