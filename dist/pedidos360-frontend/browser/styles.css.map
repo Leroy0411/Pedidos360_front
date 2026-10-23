@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.scss"],
+  "sourcesContent": ["*,\r\n*::before,\r\n*::after {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n  margin: 0;\r\n  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;\r\n  background: #f3f4f6;\r\n  color: #111827;\r\n}\r\n"],
+  "mappings": ";AAAA;AAAA,CAAA;AAAA,CAAA;AAGE,cAAA;;AAGF;AACE,UAAA;AACA;IAAA,SAAA;IAAA,aAAA;IAAA,UAAA;IAAA,MAAA;IAAA;AACA,cAAA;AACA,SAAA;;",
+  "names": []
+}

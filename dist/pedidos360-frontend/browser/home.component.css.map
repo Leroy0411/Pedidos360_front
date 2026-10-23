@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pages/home/home.component.ts"],
+  "sourcesContent": ["\n    .hero {\n      text-align: center;\n      padding: 3rem 1rem;\n    }\n    .welcome { color: #555; margin: 1rem 0; }\n    .actions { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }\n    .btn {\n      padding: 0.75rem 1.5rem;\n      border-radius: 8px;\n      border: 1px solid #2563eb;\n      background: #fff;\n      color: #2563eb;\n      text-decoration: none;\n      cursor: pointer;\n      font-size: 1rem;\n    }\n    .btn.primary { background: #2563eb; color: #fff; border-color: #2563eb; }\n  "],
+  "mappings": ";AACI,CAAA;AACE,cAAA;AACA,WAAA,KAAA;;AAEF,CAAA;AAAW,SAAA;AAAa,UAAA,KAAA;;AACxB,CAAA;AAAW,WAAA;AAAe,OAAA;AAAW,mBAAA;AAAyB,aAAA;;AAC9D,CAAA;AACE,WAAA,QAAA;AACA,iBAAA;AACA,UAAA,IAAA,MAAA;AACA,cAAA;AACA,SAAA;AACA,mBAAA;AACA,UAAA;AACA,aAAA;;AAEF,CAVA,GAUA,CAAA;AAAe,cAAA;AAAqB,SAAA;AAAa,gBAAA;;",
+  "names": []
+}

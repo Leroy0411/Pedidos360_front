@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pages/products/products.component.ts"],
+  "sourcesContent": ["\n    .page { padding: 1.5rem; max-width: 960px; margin: 0 auto; }\n    .grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); }\n    .card { border: 1px solid #e5e7eb; border-radius: 12px; padding: 1rem; background: #fff; }\n    .sku { color: #6b7280; font-size: 0.875rem; }\n    .price { font-weight: 700; color: #2563eb; }\n    .stock { font-size: 0.875rem; }\n    .error { color: #dc2626; }\n  "],
+  "mappings": ";AACI,CAAA;AAAQ,WAAA;AAAiB,aAAA;AAAkB,UAAA,EAAA;;AAC3C,CAAA;AAAQ,WAAA;AAAe,OAAA;AAAW,yBAAA,OAAA,SAAA,EAAA,OAAA,KAAA,EAAA;;AAClC,CAAA;AAAQ,UAAA,IAAA,MAAA;AAA2B,iBAAA;AAAqB,WAAA;AAAe,cAAA;;AACvE,CAAA;AAAO,SAAA;AAAgB,aAAA;;AACvB,CAAA;AAAS,eAAA;AAAkB,SAAA;;AAC3B,CAAA;AAAS,aAAA;;AACT,CAAA;AAAS,SAAA;;",
+  "names": []
+}
